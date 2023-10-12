@@ -62,8 +62,10 @@ Here we have list of projects:
 50. Food Recipe Website
 51. Draggable Profile Card
 52. Email Sender App
+53. Url Shortner
+54. Glassmorphism Generator
 
-## Where is rest 48 Projects
+## Where is rest 46 Projects
 
 We create a project each 3 days with voting on our <a href="https://youtube.com/@AsmrProg" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
